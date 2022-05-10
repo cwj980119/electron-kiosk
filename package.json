@@ -1,0 +1,14 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "description": "first_electron_app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Wonjae Choi",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
