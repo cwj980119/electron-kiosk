@@ -1,10 +1,10 @@
 # electron-kiosk
 
-# 1
-'''
+## 1
+```
 npm install
-'''
-# 2
-'''
+```
+## 2
+```
 npm start
-'''
+```
