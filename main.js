@@ -4,7 +4,8 @@ const {ipcMain} = require('electron')
 const createWindow = () => {
     const win = new BrowserWindow({
       width: 600,
-      height: 800
+      height: 800,
+      // frame: false //Remove Frame
     })
     
     //win.removeMenu()
