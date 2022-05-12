@@ -1,5 +1,6 @@
 const { app, BrowserWindow } = require('electron')
 const {ipcMain} = require('electron')
+const url = require('url')
 
 const createWindow = () => {
     const win = new BrowserWindow({
