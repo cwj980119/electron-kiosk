@@ -4,7 +4,7 @@ const url = require('url')
 
 const createWindow = () => {
     const win = new BrowserWindow({
-      width: 600,
+      width: 1000,
       height: 800,
       // frame: false //Remove Frame
     })
